@@ -1,7 +1,7 @@
-/* CSS */
+
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #ffcccb; /* Light pink background */
+    background-color: #ffcccb;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@ body {
   }
   
   .container {
-    background-color: #ff69b4; /* Hot pink container */
+    background-color: #ff69b4; 
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -34,7 +34,7 @@ body {
   }
   
   button {
-    background-color: #ff1493; /* Deep pink button */
+    background-color: #ff1493; 
     color: white;
     border: none;
     padding: 10px 20px;
@@ -44,7 +44,7 @@ body {
   }
   
   button:hover {
-    background-color: #ff007f; /* Slightly darker pink on hover */
+    background-color: #ff007f; 
   }
   
   ul {
